@@ -1,13 +1,16 @@
+/* Remove extra margin */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* background color for entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Begin header and nav bar styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,9 +52,11 @@ a {
 p {
     font-size: 16px;
 }
+/* End header and nav bar styling */
 
+/* Main photo styling */
 .hero {
-    height: 800px;
+    height: 900px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* Begin content styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,7 +98,9 @@ p {
 .content img {
     max-height: 200px;
 }
+/* End content styling */
 
+/* Begin benefits styling */
 .benefits {
     margin-right: 20px;
     clear: both;
@@ -121,7 +129,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End benefits styling */
 
+/* Made with and copyright styling */
 footer {
     padding: 30px;
     clear: both;

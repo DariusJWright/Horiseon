@@ -14,7 +14,7 @@ Added attributes for accessibility.
 
 
 
-Page can be viewed here: https://zero758.github.io/urban-octo-telegram/Develop
+Page can be viewed here: https://zero758.github.io/horiseon/Develop
 
 
 ![Alt](/Develop/assets/images/Horiseon.png?raw=true) 
